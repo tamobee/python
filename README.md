@@ -7,14 +7,11 @@
 <li><samp> The greatest increase in profits (date and amount) over the entire period.
 <li><samp> The greatest decrease in losses (date and amount) over the entire period.
 
----
-
 <h3><p> Files
 
 * [PyBank](PyBank/main.ipynb) -- [budget_data.csv](PyBank/Resources/budget_data.csv)
 <!-- * [PyRamen](PyRamen/main.ipynb) -- [budget_data.csv](PyRamen/Resources/menu_data.csv) -->
 
----
 ```text
 Financial Analysis
 ----------------------------
