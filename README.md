@@ -12,6 +12,8 @@
 * [PyBank](PyBank/main.ipynb) -- [budget_data.csv](PyBank/Resources/budget_data.csv)
 <!-- * [PyRamen](PyRamen/main.ipynb) -- [budget_data.csv](PyRamen/Resources/menu_data.csv) -->
 
+---
+
 ```text
 Financial Analysis
 ----------------------------
