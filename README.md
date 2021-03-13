@@ -1,6 +1,6 @@
 <h2><p align="center"> Python: PyBank
 
-<h4><samp> Analyzing the financial records of PyBank:<br><br>
+<samp> Analyzing the financial records of PyBank:<br><br>
 <ul><li><samp> The total number of months included in the dataset.
 <li><samp> The net total amount of Profit/Losses over the entire period.
 <li><samp> The average of the changes in Profit/Losses over the entire period.
@@ -9,7 +9,7 @@
 
 ---
 
-### Files
+<h3><p> Files
 
 * [PyBank](PyBank/main.ipynb) -- [budget_data.csv](PyBank/Resources/budget_data.csv)
 <!-- * [PyRamen](PyRamen/main.ipynb) -- [budget_data.csv](PyRamen/Resources/menu_data.csv) -->
