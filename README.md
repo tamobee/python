@@ -1,8 +1,8 @@
-<h3><p align="center"> Python: PyBank
+<h1><p align="center"> Python: PyBank
       
 ---
 
-<h2><samp> Analyzing the financial records of PyBank:<br>
+<h4><samp> Analyzing the financial records of PyBank:<br><br>
 <ul><li><samp> The total number of months included in the dataset.
 <li><samp> The net total amount of Profit/Losses over the entire period.
 <li><samp> The average of the changes in Profit/Losses over the entire period.
@@ -26,4 +26,3 @@ Average  Change: $-2315.12
 Greatest Increase in Profits: Feb-2012 ($1926159)
 Greatest Decrease in Profits: Sep-2013 ($-2196167)
 ```                                                             
-                                                                 
