@@ -1,4 +1,4 @@
-<h1><p align="center"> Python: PyBank
+<h2><p align="center"> Python: PyBank
 
 <h4><samp> Analyzing the financial records of PyBank:<br><br>
 <ul><li><samp> The total number of months included in the dataset.
